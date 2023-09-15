@@ -1,2 +1,2 @@
 # JAVA_1
-First tryouts for Java
+Anything and everything at a single place.
